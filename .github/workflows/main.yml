@@ -27,4 +27,3 @@ jobs:
       
     - name: Push to registry
       run: docker push kunalmaurya/todo-app:latest
-    
